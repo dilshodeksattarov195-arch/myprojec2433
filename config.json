@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerprocess",
+        "uuid": 23648760,
+        "checksum": "j8qe7g"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
